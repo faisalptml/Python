@@ -1,0 +1,8 @@
+IZM789,Ayat-ayat Cinta,Izmi,2
+DES008,Belajar Bahasa Pemrograman Python,Desyita,3
+DIK547,Belajar HTML,Dika,5
+FAI812,ART of WAR,Faisal,5
+SYA014,Love Trip,Syafa,8
+NEZ874,Kimetsu No Yaiba,Nezuko,13
+DIK308,Cara Belajar Bahasa Pemrograman Python,Dika,14
+SAN584,The last of US,sandi,4

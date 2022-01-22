@@ -1,0 +1,10 @@
+LIB335,Faisal,1
+LIB351,Jack,2
+LIB653,As-Syafa,1
+LIB157,Ucup,2
+LIB217,Monkey D Luffy,1
+LIB557,Nezuko,2
+LIB595,Sarada,1
+LIB184,Hinata,2
+LIB123,Naruto,1
+LIB780,Bima,2
